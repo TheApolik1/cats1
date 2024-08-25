@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(172, 229, 251);
+}
+h1 {
+    color: #860000;
+}
+a {
+color: #FF0000;
+}
+h2{
+   color:  #860000;
+} 
+nav a {
+  color: rgb(195, 0, 255);
+  border: inset 3px red;
+  border-radius: 20px;
+  padding: 5px;
+}
+nav{
+ justify-content: space-between;
+ display: flex;
+}
+.cat1{
+    width: 300px;
+    height: 500px;
+}
+.cat2{
+    width: 400px;
+    height: 300px;
+}
+.cat3{
+    width: 300px;
+    height: 500px;
+}  
+p{
+    color: #FF0000;
+  font-size: 20px;
+}
+body{
+    text-align: center;
+}
+a{
+text-decoration: none;
+}
+h3{
+ color: #860000
+}
+    
